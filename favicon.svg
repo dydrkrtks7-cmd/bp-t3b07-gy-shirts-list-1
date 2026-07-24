@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>가양 룸싸롱 추천 가이드</title>
+  <rect width="64" height="64" rx="17" fill="hsl(99 62% 39%)"/>
+  <g transform="rotate(90 32 32)"><circle cx="25" cy="32" r="13" fill="none" stroke="hsl(99 24% 96%)" stroke-width="7"/><circle cx="39" cy="32" r="13" fill="none" stroke="hsl(279 68% 58%)" stroke-width="7"/></g>
+</svg>
